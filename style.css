@@ -1,0 +1,234 @@
+html,
+body,
+header,
+.view {
+  height: 100%;
+}
+
+@media (max-width: 740px) {
+  html,
+  body,
+  header,
+  .view {
+    height: 100vh;
+  }
+}
+
+.top-nav-collapse {
+  background-color: black !important;
+}
+
+.navbar:not(.top-nav-collapse) {
+  background: #f4f4f4 !important;
+  font-size: 1.5rem;
+}
+.navbar{
+   padding-top: 15%;
+}
+
+.navbar-brand{
+  font-family: 'Fredoka One', cursive;
+  font-size: 2.5rem;
+  color: black;
+}
+
+.navbar-nav{
+  font-family: 'Fredoka One', cursive;
+  color: black;
+}
+
+@media (max-width: 991px) {
+  .navbar:not(.top-nav-collapse) {
+    background:  #f4f4f4!important;
+  }
+}
+
+.container{
+  overflow-x: hidden;
+}
+
+#carusel,
+#products,
+#vinuri,
+#contact,
+#footer{
+
+  overflow-x: hidden;
+}
+
+h1 {
+  letter-spacing: 8px;
+  padding-bottom: 2%;
+}
+
+h5 {
+  letter-spacing: 3px;
+  
+}
+
+.hr-light {
+  border-top: 3px solid #fff;
+  width: 80px;
+}
+
+.white-text{
+    color: black;
+    padding-top: 55%;
+    font-family: 'Fredoka One', cursive;
+}
+
+/* carusel */
+
+
+.w-100 {
+  width: 100% !important;
+  height: 75vh;
+}
+
+
+
+
+/*sectiunea vinuri*/
+
+#products{
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+#vinuri{
+  margin-left: 1.5%;
+  margin-right: 1.5%;
+}
+
+.text-center{
+  padding-top: 3%;
+}
+
+/*contact grid*/
+
+h2{
+  text-align: center;
+}
+
+.section-description{
+  text-align: center;
+  margin-bottom: 5%;
+  size: 2.5rem;
+}
+
+
+#contact{
+  padding-top: 15%;
+
+
+}
+
+.map-container-6{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+  }
+  
+  .map-container-6 iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+  }
+
+/*social media*/
+
+.social-media{
+  text-align: center;
+ 
+  font-size: 1.5rem;
+  padding: 3% 0;
+}
+
+.social{
+  color: black;
+  text-decoration: none;
+}
+
+.end{
+  padding-top: 2.5%;
+  font-size: 1rem;
+  color: #a6a6a4;
+  padding-bottom: 1.5%;
+}
+
+/**************pagina despre produse**************/
+
+h2{
+  padding: 5% 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
